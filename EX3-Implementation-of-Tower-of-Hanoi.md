@@ -16,8 +16,8 @@ To write a C program to implement Tower of Hanoi
 ```
 /*
 Program to implement Tower of Hanoi
-Developed by: Sriram Gopalan G
-Register Number: 212222230149 
+Developed by: Manoj G
+Register Number: 212222240060 
 */
 
 ```
