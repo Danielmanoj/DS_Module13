@@ -18,8 +18,8 @@ To write a C function to evaluate the given prefix expression using stack and pr
 ```
 /*
 Program to evaluate the given prefix expression
-Developed by: Sriram Gopalan G
-RegisterNumber: 212222230149
+Developed by: Manoj G
+RegisterNumber: 212222240060
 */
 ```
 ```c
